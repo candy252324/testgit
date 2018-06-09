@@ -1,5 +1,5 @@
 
-var a=123456
+var a="local 145"
 
 
 

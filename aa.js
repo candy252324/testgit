@@ -1,3 +1,3 @@
 var aa;
-var c=222;
+var c="remote 123";
 var d;

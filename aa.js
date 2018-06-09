@@ -1,3 +1,3 @@
 var aa;
-var c;
+var c=222;
 var d;

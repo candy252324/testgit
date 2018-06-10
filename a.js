@@ -1,6 +1,5 @@
 
-
-var a="remote 246"
+var a="local 146"
 
 
 

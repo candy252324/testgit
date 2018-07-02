@@ -1,7 +1,7 @@
 
 var a="fix-conflict"
 
-var master;
+var master="master change";
 
 
 

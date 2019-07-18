@@ -1,2 +1,2 @@
-var b="bb"
+var b="bb" //
 // 修改b.js

@@ -2,7 +2,8 @@
 var a="fix-conflict"  //dev
 
 
-var dev="hank";  // master
+var dev="hank";  // master bugfix
+
 
 
 

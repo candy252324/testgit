@@ -1,9 +1,10 @@
 
-var a="fix-conflict"  //dev
+var a="fix-conflict"  //
 
 
-var dev="hank";  // master
-// 1  2  3   4
-// 1   2   3
+var dev="hank";
+
+
+
 
 

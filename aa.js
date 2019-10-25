@@ -6,3 +6,5 @@ var d; // master  1 2 3
 
 // aa  bb  cc
 // 测试commit
+
+var feature2;

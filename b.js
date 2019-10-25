@@ -5,3 +5,5 @@ var b="bb" // dev master
 var feature3;
 
 var reabase;
+
+var noteDirectly;

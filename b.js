@@ -6,4 +6,4 @@ var feature3;
 
 var reabase;
 
-var noteDirectly;
+var noteDirectly; // 校区停用

@@ -1,6 +1,6 @@
 
 var a="dev" // 记上课项目
-if(1){console.log(4)}
+if(1){console.log('user1')}
 
 
 var dev="dev1"; 

@@ -1,5 +1,5 @@
 
-var a="dev"
+var a="dev" //
 
 
 var dev="dev1"; 
